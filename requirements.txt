@@ -263,7 +263,7 @@ tweet-parser==1.13.2
 TwitterSearch==1.0.2
 twython==3.7.0
 unicodecsv==0.14.1
-urllib3==1.24.1
+urllib3==1.24.2
 URLObject==2.4.3
 virtualenv==16.7.9
 wasabi==0.2.2
