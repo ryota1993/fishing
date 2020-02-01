@@ -37,7 +37,6 @@ ipython-genutils==0.2.0
 ipywidgets==7.4.2
 isort==4.3.16
 itsdangerous==0.24
-ja-ginza-nopn==1.0.2
 Janome==0.3.9
 jdcal==1.4
 jedi==0.13.3
