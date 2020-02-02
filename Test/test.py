@@ -25,5 +25,5 @@ class Test(Resource):
     @api.expect(test_json)
     def post(self):
 
-        test = request.get_json()
-        return make_response(jsonify(test),200)
+        test = request.get_json("season")
+        return make_response(jsonify({"msg":"API request from Wrodpress received","received value":test}),200)
