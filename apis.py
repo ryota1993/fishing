@@ -4,6 +4,7 @@ from flask_restplus import Api
 
 ######  Import all .py API files  ########
 from Login.login import api as login_api
+from Test.test import api as test_api
 
 #########  Adding Auth and all the APIs to Main   #################
 authorizations = {
@@ -21,3 +22,4 @@ api = Api(title = "TB Mapping APIs",
 
 ### Login API ###
 api.add_namespace(login_api, path="/login")
+api.add_namespace(test_api, path="/test")
