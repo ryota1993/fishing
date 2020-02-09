@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>G_images</folder>
+	<filename>000217.jpg</filename>
+	<path>/Users/macbook/Desktop/G_images/000217.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>436</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gonzui</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>1</ymin>
+			<xmax>487</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>
