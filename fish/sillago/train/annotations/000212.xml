@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000212.JPG</filename>
+	<path>C:\Users\wassu\OneDrive\釣りAIプロジェクト\ImageDetection\images\000212.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>82</ymin>
+			<xmax>295</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>
